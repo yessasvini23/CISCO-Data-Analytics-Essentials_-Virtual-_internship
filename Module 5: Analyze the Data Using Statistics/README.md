@@ -1,4 +1,4 @@
-## Module 5: Analyze the Data Using Statistics
+## 05. Analyze the Data Using Statistic
 
 # 5.0 Introduction
 
