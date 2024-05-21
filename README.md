@@ -16,4 +16,4 @@
 - Module 10: [Take the Next Steps](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/10.%20Take%20the%20Next%20Steps)
 - [CISCO Data Analytics Essentials Final Exam](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/Data%20Analytics%20Essentials%20Final%20Exam)
 <br><br>
-![CISCO-Data-Analytics-Essentials](https://github.com/yessasvini23/CISCO-Data-Analytics-Essentials/assets/158431578/aaf16d4f-e9ef-4711-a422-f3ba8545eee9)
+![CISCO-Data-Analytics-Essentials](https://github.com/yessasvini23/"C:\Users\hp\OneDrive\Desktop\CISCO Certification Course\Cisco badge.png")
